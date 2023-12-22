@@ -1,0 +1,15 @@
+/Users/admin/Documents/GitHub/dotnet-project-intro/bin/Debug/net8.0/dotnet-project-intro
+/Users/admin/Documents/GitHub/dotnet-project-intro/bin/Debug/net8.0/dotnet-project-intro.deps.json
+/Users/admin/Documents/GitHub/dotnet-project-intro/bin/Debug/net8.0/dotnet-project-intro.runtimeconfig.json
+/Users/admin/Documents/GitHub/dotnet-project-intro/bin/Debug/net8.0/dotnet-project-intro.dll
+/Users/admin/Documents/GitHub/dotnet-project-intro/bin/Debug/net8.0/dotnet-project-intro.pdb
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.sourcelink.json
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.dll
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/refint/dotnet-project-intro.dll
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.pdb
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/dotnet-project-intro.genruntimeconfig.cache
+/Users/admin/Documents/GitHub/dotnet-project-intro/obj/Debug/net8.0/ref/dotnet-project-intro.dll
