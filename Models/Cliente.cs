@@ -3,17 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+//Propriedades basicas####
 namespace dotnet_project_intro.Models
 {
-    public class Pessoa
+    public class Cliente
     {
         public string Name { get; set; }
         public int Age { get; set; }
 
         public void Saudacao()
         {
-            Console.WriteLine($"Ola meu nome eh {Name} e tenho {Age}");
+            Console.WriteLine($"CLIENTE: {Name} {Age} anos");
         }
 
     }
 }
+//Propriedades basicas####
