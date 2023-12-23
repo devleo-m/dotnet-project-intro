@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 //Propriedades basicas####
-namespace dotnet_project_intro.Models
+namespace dotnet_project_intro.Models_Cliente
 {
     public class Cliente
     {
