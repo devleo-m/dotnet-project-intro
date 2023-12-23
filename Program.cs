@@ -1,4 +1,5 @@
-﻿using dotnet_project_intro.Models_Cliente; //arquivo da class Cliente
+﻿using dotnet_project_intro.Models;
+using dotnet_project_intro.Models_Cliente; //arquivo da class Cliente
 using dotnet_project_intro.Models_Curso;
 using dotnet_project_intro.Models_funcionarios;
 using dotnet_project_intro.Models_Pessoa; //arquivo da class Funcionario
@@ -39,3 +40,7 @@ ingles.AdicionarAluno(pessoa1);
 ingles.AdicionarAluno(pessoa2);
 ingles.AdicionarAluno(pessoa3);
 ingles.ListarAlunos();
+
+//Construtores
+Construtores pessoaC = new Construtores("Leo", " Madeira");
+pessoaC.Apresentacao();
