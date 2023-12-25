@@ -16,8 +16,8 @@ namespace dotnet_project_intro.Models_Curso
             Alunos.Add(aluno);
         }
 
-        public bool RemoverAluno(Pessoa Aluno){
-            Alunos.Remove(Aluno);
+        public bool RemoverAluno(Pessoa aluno){
+            Alunos.Remove(aluno);
             return true;
 
             // return Alunos.Remove(Aluno); //apenas desta forma tambem funciona
